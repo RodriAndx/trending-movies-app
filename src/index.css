@@ -27,6 +27,11 @@
     background: #030014;
   }
 
+  html, body {
+    overflow-x: hidden;
+    width: 100vw;
+  }
+
   h1 {
     @apply mx-auto max-w-4xl text-center text-5xl font-bold leading-tight tracking-[-1%] text-white sm:text-[64px] sm:leading-[76px];
   }
