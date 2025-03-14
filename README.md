@@ -1,12 +1,18 @@
-# React + Vite
+# 🎬 Trending Movies App
+📌 **Discover the most viral and searched movies in real-time**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Description
+Trending Movies App allows you to:  
+✅ View the **top 20 trending movies** of the moment.  
+✅ Search for any movie by title.  
+✅ See details like **language, rating (stars), and poster**.  
+✅ Explore the **Top 5 most searched movies** within the platform.  
 
-Currently, two official plugins are available:
+## 🌎 Live Demo
+🔗 **[Trending Movies App](https://trending-movies-app-rc.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+- ⚡ **React + Vite** (Optimized frontend)  
+- 🎨 **Tailwind CSS** (Modern and responsive styling)  
+- 🎥 **TMDB API** (Movie data source)  
+- 🛢️ **Appwrite** (Database for search history)  
